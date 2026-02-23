@@ -39,12 +39,14 @@ was created with the following configuration:
 
 The group was created using standard domain defaults appropriate for
 centralized permission management.
+<img width="1919" height="1079" alt="Created A Group" src="https://github.com/user-attachments/assets/cff38773-1957-4fa4-a1b9-cff05b550577" />
 
 ### Verified Group Creation
 
 After creation, the group was located within ADUC to confirm successful
 deployment. Group properties were reviewed to ensure correct
 configuration and availability for user membership assignment.
+<img width="1919" height="1077" alt="Confirmed the group Was created" src="https://github.com/user-attachments/assets/ee19ebce-43ca-4c60-8bd8-b95aadfb3937" />
 
 ------------------------------------------------------------------------
 
