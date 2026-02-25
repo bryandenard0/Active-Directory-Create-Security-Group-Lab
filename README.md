@@ -86,7 +86,3 @@ applications, or network services.
 -   Automate group creation using PowerShell
 
 ------------------------------------------------------------------------
-
-## Author
-
-Home Lab Project -- Active Directory Group Creation
