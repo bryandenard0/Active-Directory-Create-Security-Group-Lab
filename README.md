@@ -1,3 +1,5 @@
+Watch me build this lab here! https://www.loom.com/share/be5015c2894b465bb90f3f49891925fc
+
 # Active Directory Home Lab: Create Security Group
 
 ## Project Summary
